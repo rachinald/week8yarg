@@ -1,0 +1,9 @@
+npm init -y
+
+npm install mysql2 yargs sequelize dotenv
+
+gitignore.io = creates big gitignore file
+
+npm run start-container
+
+node app.js --add --title="jaws" --actor="roy" --rating="10" 
